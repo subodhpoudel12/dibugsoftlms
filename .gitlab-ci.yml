@@ -1,0 +1,3 @@
+include:
+    - project: 'community/tutor-ci'
+      file: 'tutor-gitlab-ci.yml'
